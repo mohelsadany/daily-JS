@@ -1,5 +1,6 @@
 
-Daily JS
+#Daily JS
+
 This is a repository for my daily JavaScript practice. I will be adding new code snippets, exercises and small projects regularly to improve my JavaScript skills.
 
 Getting Started
